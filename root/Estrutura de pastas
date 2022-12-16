@@ -1,0 +1,11 @@
+Estrutura de pastas
+
+root
+    readme.md
+    index.html
+    pages
+    imagens
+    src
+        css
+    samples
+            test
